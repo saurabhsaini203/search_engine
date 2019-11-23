@@ -4,7 +4,7 @@ Demo of search engine
 
 http://enginesearch.epizy.com/search.php
 
-you can type keyword like fb,food,juet,webkiosk,instagram,java etc on the search above mentioned url.
+you can type keyword like fb,food,juet,webkiosk,instagram,java etc on the search engine above mentioned url.
 
 If the search keyword or query match from the database then result of query will be display to the user on the result page.
 otherwise sorry result not found, try for another keyword.
